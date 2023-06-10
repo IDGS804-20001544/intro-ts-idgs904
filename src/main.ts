@@ -6,6 +6,7 @@ import './intro-ts/01-tipos-bas.ts'
 import './intro-ts/02-obj-interface-arreglos.ts'
 import './intro-ts/03-funciones.ts'
 import './intro-ts/04-desestructura-objeto.ts'
+import './intro-ts/05-clases.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
